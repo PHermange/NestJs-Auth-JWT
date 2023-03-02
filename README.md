@@ -26,9 +26,11 @@
 
 Serveur d'authentification local NestJs + TypeOrm + Jwt
 
-## Installation/fr
+## Configuration/fr
 
 configuration TypeOrm et Jwt dans .env
+
+## Installation/fr
 
 ```bash
 $ npm install
