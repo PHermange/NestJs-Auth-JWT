@@ -22,11 +22,13 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Description/fr
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Serveur d'authentification local NestJs + TypeOrm + Jwt
 
-## Installation
+## Installation/fr
+
+configuration TypeOrm et Jwt dans .env
 
 ```bash
 $ npm install
@@ -58,15 +60,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - Pierre Hermange
 
 ## License
 
